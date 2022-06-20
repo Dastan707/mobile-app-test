@@ -44,7 +44,6 @@ export default {
           mediaType: navigator.camera.MediaType.PICTURE,
           sourceType: navigator.camera.PictureSourceType.CAMERA,
           direction: navigator.camera.Direction.BACK,
-          allowEdit: true,
           encodingType: navigator.camera.EncodingType.JPEG,
           targetWidth: 100,
           targetHeight: 100
